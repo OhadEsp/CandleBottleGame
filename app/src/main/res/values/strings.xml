@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Candle Bottle Game</string>
+    <string name="create_game">Create New Game</string>
+    <string name="join_game">Join Game</string>
+    <string name="enter_game_code">Enter Game Code</string>
+    <string name="game_code_error">Please enter a game code</string>
+    <string name="you_won">You Won!</string>
+    <string name="you_lost">You Lost!</string>
+</resources> 

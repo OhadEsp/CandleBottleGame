@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="48">
+    
+    <!-- Bottle body -->
+    <path
+        android:fillColor="@color/bottle_color"
+        android:pathData="M12,4C8.1,4 5,7.1 5,11V44C5,45.1 5.9,46 7,46H17C18.1,46 19,45.1 19,44V11C19,7.1 15.9,4 12,4Z"/>
+    
+    <!-- Bottle neck -->
+    <path
+        android:fillColor="@color/bottle_color"
+        android:pathData="M12,0C10.9,0 10,0.9 10,2V4H14V2C14,0.9 13.1,0 12,0Z"/>
+</vector> 
